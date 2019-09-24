@@ -5,7 +5,7 @@ Author URI: https://shika365.com
 Author: Shika365 Team
 Requires at least: 2.3
 Tested up to: 5.2
-Stable tag: 1.0
+Stable tag: 1.1
 Version: 1.1 
 Requires PHP: 5.5 or Higher
 License: GPLv3 or later
@@ -98,8 +98,8 @@ Email: bakul@sinhabd.com
 
 == Changelog ==
 
-= 1.0 =
-• Initial release.
-
 = 1.1 =
 • Test Version Off.
+
+= 1.0 =
+• Initial release.
